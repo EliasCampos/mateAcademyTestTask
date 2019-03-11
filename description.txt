@@ -1,0 +1,24 @@
+    "The Calculator (mate.academy test task)"
+    made by Elias
+
+    Description:
+The program let you makes a simple arithmetic operations above two natural numbers,
+not more than 10. Input numbers can be represented in usual arabic notation, (usual decimal positional system),
+or in the roman notation (using as digits characters 'I', 'V', 'X').
+    Usage:
+You can make a next four arithmetic operations: adding, subtraction, multiplication, division;
+each represents by character corresponding: '+', '-', '*', '/'.
+For make arithmetic operation above tho numbers 'a' and 'b', just input next line:
+
+    a <operation> b
+
+,where <operation> is one of the operation character above, and then press enter.
+
+It's prohibited to make operations between numbers in different notations (one - arabic, other - roman).
+Numbers, by value more than 10, doesn't supported.
+
+For stop a programs' work, input "exit" or "q".
+
+
+
+
